@@ -1,11 +1,11 @@
 # $theHasher
 
-theHasher is a Tool for generating hashes using some of the most Famous Hashs Functions ever created.
+theHasher is a Tool for generating hashes using some of the most Famous Hashes Functions ever created.
 
 You can save your hashes to corresponding txt file of each hash function you use.
 
 <b>This tool is useful for creating strong and unbreakable passwords.Use the hash as your password so anyone can not read your password!<b>
-Stay in annomimity..
+Stay in Anonymity..
   
 Recommended hash function : sha256 || sha3_256
 
